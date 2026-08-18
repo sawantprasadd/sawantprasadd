@@ -30,7 +30,7 @@ I'm always open to collaborating on exciting backend projects or discussing new 
 
 ### 🚀 Latest Posts on Dev.to:
 <!-- DEVTO:START -->
-- [JavaScript Functions](https://dev.to/sawantprasadd/javascript-functions-12i1)
+- [JavaScript Functions](https://dev.to/sawantprasad/javascript-functions-12i1)
 <!-- DEVTO:END -->
 
 ---
