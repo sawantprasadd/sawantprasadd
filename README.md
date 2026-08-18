@@ -22,7 +22,7 @@ I am a passionate **Backend Developer** who loves solving complex problems with 
 ### 🔗 Connect with Me:
 I'm always open to collaborating on exciting backend projects or discussing new technologies.
 
-<a href="https://dev.to/prasadsawant7">
+<a href="https://dev.to/sawantprasadd">
   <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
 </a>
 
@@ -30,7 +30,7 @@ I'm always open to collaborating on exciting backend projects or discussing new 
 
 ### 🚀 Latest Posts on Dev.to:
 <!-- DEVTO:START -->
-- [JavaScript Functions](https://dev.to/prasadsawant7/javascript-functions-12i1)
+- [JavaScript Functions](https://dev.to/sawantprasadd/javascript-functions-12i1)
 <!-- DEVTO:END -->
 
 ---
