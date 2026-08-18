@@ -72,10 +72,7 @@ I'm always open to collaborating on exciting backend projects or discussing new 
 ### 🤝 Let's Collaborate!
 Feel free to reach out if you're looking for someone to build robust backend systems or want to exchange ideas about cloud architecture, API design, or infrastructure automation.
 
-<a href="mailto:prasadsawant.cp@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-via%20Email-blue" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/prasad-sawant7">
+<a href="https://www.linkedin.com/in/sawantprasadd">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
 </a>
 
