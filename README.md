@@ -22,7 +22,7 @@ I am a passionate **Backend Developer** who loves solving complex problems with 
 ### 🔗 Connect with Me:
 I'm always open to collaborating on exciting backend projects or discussing new technologies.
 
-<a href="https://dev.to/sawantprasadd">
+<a href="https://dev.to/sawantprasad">
   <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
 </a>
 
